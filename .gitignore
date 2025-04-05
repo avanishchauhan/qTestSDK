@@ -1,0 +1,18 @@
+# VS Code
+.vscode/
+.vs/
+*.code-workspace
+
+# Markdown tooling cache
+*.db
+*.db-shm
+*.db-wal
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Optional: markdown linting tool outputs
+.markdownlint.json
